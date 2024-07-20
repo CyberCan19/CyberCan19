@@ -1,4 +1,4 @@
-[![MasterHead](https://canpersonal.dev.tc/avatars/Can.png)
+[![MasterHead](https://canpersonal.com.tr/avatars/Can.png)
 <h1 align="center">Hi 👋, I'm Hüseyin Can Biçer</h1>
 <h3 align="center">A Cyber ​​Security Student from Turkey</h3>
 
