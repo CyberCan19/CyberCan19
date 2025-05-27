@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/CanPerest019/Library-Book-Record-System/blob/main/Resimler/Can%20(1).png)
+![MasterHead](https://github.com/CanPerest019/Library-Book-Record-System/blob/main/Resimler/Can%20(1).png)
 # 💫 About Me:
 Hi 👋, I'm Hüseyin Can Biçer / Merhaba , Ben Hüseyin Can Biçer<br><br>I Work in the Field of Cyber Security. / Siber Güvenlik Alanında Çalışma Yürütüyorum.<br>
 
